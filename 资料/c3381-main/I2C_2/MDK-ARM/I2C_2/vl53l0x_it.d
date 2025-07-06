@@ -1,0 +1,3 @@
+i2c_2\vl53l0x_it.o: demo\vl53l0x_it.c
+i2c_2\vl53l0x_it.o: demo\vl53l0x_it.h
+i2c_2\vl53l0x_it.o: demo\vl53l0x.h

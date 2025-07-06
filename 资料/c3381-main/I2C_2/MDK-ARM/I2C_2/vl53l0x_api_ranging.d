@@ -1,0 +1,16 @@
+i2c_2\vl53l0x_api_ranging.o: core\src\vl53l0x_api_ranging.c
+i2c_2\vl53l0x_api_ranging.o: .\core\inc\vl53l0x_api.h
+i2c_2\vl53l0x_api_ranging.o: .\core\inc\vl53l0x_api_strings.h
+i2c_2\vl53l0x_api_ranging.o: .\core\inc\vl53l0x_def.h
+i2c_2\vl53l0x_api_ranging.o: .\core\inc\vl53l0x_device.h
+i2c_2\vl53l0x_api_ranging.o: .\platform\inc\vl53l0x_types.h
+i2c_2\vl53l0x_api_ranging.o: D:\gongchengruanjian\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+i2c_2\vl53l0x_api_ranging.o: D:\gongchengruanjian\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+i2c_2\vl53l0x_api_ranging.o: .\platform\inc\vl53l0x_platform.h
+i2c_2\vl53l0x_api_ranging.o: .\platform\inc\vl53l0x_platform_log.h
+i2c_2\vl53l0x_api_ranging.o: D:\gongchengruanjian\keil5\ARM\ARMCC\Bin\..\include\stdio.h
+i2c_2\vl53l0x_api_ranging.o: D:\gongchengruanjian\keil5\ARM\ARMCC\Bin\..\include\string.h
+i2c_2\vl53l0x_api_ranging.o: .\platform\inc\vl53l0x_i2c_platform.h
+i2c_2\vl53l0x_api_ranging.o: D:\gongchengruanjian\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+i2c_2\vl53l0x_api_ranging.o: .\core\inc\vl53l0x_api_core.h
+i2c_2\vl53l0x_api_ranging.o: D:\gongchengruanjian\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
